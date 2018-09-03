@@ -2,4 +2,4 @@
 
 - [ ] [Systems Portfolio](systemsPortfolio.md)
 - [ ] [Project Management](projectManagement.md)
-- [ ] [Working with Staff](workingWithStaff.md)
+- [x] [Working with Staff](workingWithStaff.md)
