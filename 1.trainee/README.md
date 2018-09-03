@@ -6,17 +6,17 @@ Each link in the checklists below opens a file of instructions. As you complete 
 
 ## Employment orientation
 
-- [ ] [Learn about GitHub-flavored markdown](./githubFlavoredMarkdown.md)
-- [ ] [Create a LinkedIn profile](./createLinkedInProfile.md)
-- [ ] [Personal leave and other policies](./learnPoliciesAndProcedures.md)
-- [ ] [Sign the FERPA form](./signFERPA.md)
-- [ ] [Maintain a high standard of professional ethics](./ethics.md)
+- [x] [Learn about GitHub-flavored markdown](./githubFlavoredMarkdown.md)
+- [x] [Create a LinkedIn profile](./createLinkedInProfile.md)
+- [x] [Personal leave and other policies](./learnPoliciesAndProcedures.md)
+- [x] [Sign the FERPA form](./signFERPA.md)
+- [x] [Maintain a high standard of professional ethics](./ethics.md)
 
 ## Technical training
 
-- [ ] [Learn HTML](./learnHTML.md)
-- [ ] [Learn CSS](./learnCSS.md)
-- [ ] [Learn JavaScript](./learnJavaScript.md)
-- [ ] [Learn jQuery](./learnJQuery.md)
-- [ ] [Learn SQL](./learnSQL.md)
-- [ ] [Learn Node.js](./learnNode.md)
+- [x] [Learn HTML](./learnHTML.md)
+- [x] [Learn CSS](./learnCSS.md)
+- [x] [Learn JavaScript](./learnJavaScript.md)
+- [x] [Learn jQuery](./learnJQuery.md)
+- [x] [Learn SQL](./learnSQL.md)
+- [x] [Learn Node.js](./learnNode.md)
